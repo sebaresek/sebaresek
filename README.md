@@ -14,5 +14,5 @@ I'm Seba, a 26 years old web developer from Argentina.
 ## Contact
 - [sebastian-resek](https://www.linkedin.com/in/sebastian-resek-585265266/) on Linkedin
 - [@sebastianresek](https://twitter.com/sebastianresek) on Twitter
-- [@martonlederer](https://www.instagram.com/sebaresek/) on Instagram
+- [@sebaresek](https://www.instagram.com/sebaresek/) on Instagram
 - [Sebaresek#5744](./) on Discord
