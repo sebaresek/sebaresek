@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Seba Resek" />
+</h1>
 
-<!--
-**sebaresek/sebaresek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Seba, a 26 years old web developer from Argentina.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Node, JavaScript, Python
+- ⚙️ React, Redux, HTML
+- 👁️ CSS 
+- 💽 MySQL, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [sebastian-resek](https://www.linkedin.com/in/sebastian-resek-585265266/) on Linkedin
+- [@sebastianresek](https://twitter.com/sebastianresek) on Twitter
+- [@martonlederer](https://www.instagram.com/sebaresek/) on Instagram
+- [Sebaresek#5744](./) on Discord
