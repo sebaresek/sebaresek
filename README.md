@@ -12,6 +12,6 @@ I'm Seba, a 26 years old web developer from Argentina.
 - 💽 MySQL, SQL
 
 ## Contact 📞
-- [sebastian-resek](https://www.linkedin.com/in/sebastian-resek-585265266/) on Linkedin
+- [sebastian-resek](https://www.linkedin.com/in/sebaresek/) on Linkedin
 - [@sebaresek](https://www.instagram.com/sebaresek/) on Instagram
 - [Sebaresek#5744](./) on Discord
